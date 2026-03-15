@@ -1,6 +1,5 @@
-# Ecommerce-Olist_Store-Analysis
-Case Study: E-Commerce Payment and Delivery Analytics
-Project Overview
+📊 Case Study: E-Commerce Payment and Delivery Analytics
+📌 Project Overview
 
 This project analyzes payment behavior, delivery performance, and customer satisfaction for a large e-commerce platform operating across multiple product categories such as electronics, fashion, beauty, and pet supplies.
 
@@ -16,14 +15,14 @@ Marketing strategies
 
 The analysis focuses on key business KPIs that reveal patterns in payment usage, delivery timelines, and customer feedback.
 
-Dataset Description
+🗂 Dataset Description
 
 The dataset contains multiple tables related to e-commerce operations, including:
 
 Orders Dataset – Order purchase time and delivery information
 
 Customers Dataset – Customer location details
-
+   
 Order Payments Dataset – Payment type and payment value
 
 Order Reviews Dataset – Customer review scores (1–5)
@@ -34,7 +33,7 @@ Order Items Dataset – Product price and order details
 
 These datasets are joined together to perform business analysis.
 
-Tools & Technologies Used
+🛠 Tools & Technologies Used
 
 SQL / MySQL / PostgreSQL – Data querying and KPI calculations
 
@@ -44,7 +43,7 @@ Power BI – Data visualization and dashboards
 
 GitHub – Project documentation and version control
 
-Key Performance Indicators (KPIs)
+📈 Key Performance Indicators (KPIs)
 KPI 1: Weekday vs Weekend Payment Statistics
 Objective
 
@@ -156,7 +155,7 @@ Enhance customer satisfaction
 
 Design data-driven marketing campaigns
 
- Future Improvements
+🚀 Future Improvements
 
 Build Power BI dashboards for visual analysis
 
