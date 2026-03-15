@@ -1,5 +1,5 @@
-📊 Case Study: E-Commerce Payment and Delivery Analytics
-📌 Project Overview
+**📊 Case Study: E-Commerce Payment and Delivery Analytics
+**📌 Project Overview
 
 This project analyzes payment behavior, delivery performance, and customer satisfaction for a large e-commerce platform operating across multiple product categories such as electronics, fashion, beauty, and pet supplies.
 
