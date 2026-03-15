@@ -47,5 +47,5 @@ Task: Analyze the relationship between the number of shipping days (time taken f
 3.	Analyze whether shorter delivery times lead to higher review scores, and identify any trends.
 Expected Outcome: Insights into whether delivery speed affects customer satisfaction, and how companies can optimize their delivery strategies to improve reviews.
 
-Data Dictionaries
+
 
